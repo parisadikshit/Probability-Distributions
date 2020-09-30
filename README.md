@@ -1,2 +1,2 @@
 # Probability-Distributions
-Normal Distributions,Unifor Distributions and Poisson Distribution with the help of Matplotlib,Seaborn
+Normal Distributions,Unifor Distributions and Poisson Distributions with the help of Python Modules(Scipy,Pandas,Matplotlib,Numpy and Seaborn)
